@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "name": "family salary",
+      "type": "income",
+      "amount": 345455,
+      "id": 5
+    },
+    {
+      "name": "salary from facebook ",
+      "type": "expense",
+      "amount": 50000000,
+      "id": 8
+    },
+    {
+      "name": "salary from google ",
+      "type": "income",
+      "amount": "5000000",
+      "id": 9
+    }
+  ]
+}
